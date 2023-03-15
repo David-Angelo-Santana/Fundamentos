@@ -4,7 +4,7 @@
 //area = altura * comprimento;
 //console.log(area);
 
-//let
+//********let*******//
 
 //let forma = 'retangulo';
 //let altura = 5;
